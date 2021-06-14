@@ -1,0 +1,13 @@
+
+body{
+    color: white;
+    background-color: blue;
+    text-align: center;
+}
+
+.image_index{
+    width: 24vw;
+    height: 24vw;
+    display: block;
+    margin:auto;
+}
